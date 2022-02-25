@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @ta3h30nk1m
-- 👀 I’m interested in AI/ML/DL kind of stuff
-- 🌱 I’m currently learning tensorflow
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ta3h30nk1m@gmail.com
+- I'm trying to learn CNN and Generative Model, and for beginning, I tried to understand Neural Style Transfer. 
 
-<!---
-ta3h30nk1m/ta3h30nk1m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Follow most of the codes from Tensorflow tutorial (https://www.tensorflow.org/tutorials/generative/style_transfer)
+
+- After following the tutorial, I tried to change some hyperparameters and see what effects those params have on style transfer
